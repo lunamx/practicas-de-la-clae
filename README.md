@@ -1,3 +1,3 @@
-#curso de git 
+# curso de git 
 
 este cyrso de practicas 
